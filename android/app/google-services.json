@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "960632255513",
+    "project_id": "buddingfinance-674bf",
+    "storage_bucket": "buddingfinance-674bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960632255513:android:731d286280cc9cacc16688",
+        "android_client_info": {
+          "package_name": "com.bud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmVS7KpghWNzFfXGqr7JxtZfXpd_fjW8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
